@@ -1,10 +1,10 @@
-# Crow IT Consulting
+# Vora IT Consulting
 
-Welcome to Crow IT on GitHub! 🚀
+Welcome to Vora IT on GitHub! 🚀
 
 ## About Us
 
-At Crow IT, we excel in crafting customized software solutions capable of handling high traffic loads. Our dedicated team possesses a diverse array of talents and extensive experience to meet your most challenging needs. We specialize in delivering top-notch development services, including web, desktop, and mobile applications. With a strong focus on comprehensive support, we cover everything from infrastructure and UI/UX design to database management, integrations, and security.
+At Vora IT, we excel in crafting customized software solutions capable of handling high traffic loads. Our dedicated team possesses a diverse array of talents and extensive experience to meet your most challenging needs. We specialize in delivering top-notch development services, including web, desktop, and mobile applications. With a strong focus on comprehensive support, we cover everything from infrastructure and UI/UX design to database management, integrations, and security.
 
 ## Services Offered
 
@@ -28,10 +28,10 @@ At Crow IT, we excel in crafting customized software solutions capable of handli
 
 Let's work together to turn your software ideas into reality! Feel free to reach out to us for inquiries and collaboration opportunities.
 
-- **Email**: contact@crowitconsulting.com
+- **Email**: voraltda@gmail.com
 - **Website**: [www.crowitconsulting.com](https://www.crowitconsulting.com)
 
 Stay updated with our latest projects and contributions here on GitHub.
 
-Thank you for visiting Crow IT on GitHub! 🦅
+Thank you for visiting Vora IT on GitHub! 🦅
 [English Version](./README_EN.md) | [Versão em Português](./README_PT.md)
