@@ -28,7 +28,7 @@ Na Vora IT, destacamo-nos na criação de soluções de software personalizados,
 
 Vamos trabalhar juntos para transformar suas ideias de software em realidade! Não hesite em entrar em contato conosco para consultas e oportunidades de colaboração.
 
-- **E-mail**: contato@crowitconsulting.com
+- **E-mail**: voraltda@gmail.com
 - **Website**: [www.crowitconsulting.com](https://www.crowitconsulting.com)
 
 Mantenha-se atualizado com nossos projetos e contribuições mais recentes aqui no GitHub.
